@@ -7,7 +7,7 @@
 
 :root {
     --primary-color: #9675e4;
-    --secondary-color: lab(62.46% 54.57 -41.17);
+    --secondary-color: rgb(105, 138, 231);
     --accent-color: #e74c3c;
     --light-bg: #f8f9fa;
     --text-color: #333;
